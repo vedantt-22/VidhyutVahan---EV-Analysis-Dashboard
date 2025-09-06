@@ -1,32 +1,53 @@
-⚡ Electric Vehicle Analysis 🚗
-📊 Project Overview
-This project offers a comprehensive examination of the electric vehicle (EV) market. Using a dataset rich with information on both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), this analysis offers a comprehensive view of the market's dynamics. The goal is to transform raw data into a set of clear, actionable insights through a visually appealing and interactive Power BI dashboard.
+# ⚡ Electric Vehicle Analysis 🚗
 
-🔍 Key Findings & Insights
-📈 Market Growth: The project highlights the remarkable growth of the EV market since 2010, showcasing a rapid increase in vehicle adoption.
+## 📊 Project Overview
 
-🗺️ Geographical Distribution: A detailed map visualization reveals which states are leading the charge in EV adoption, pinpointing regional hotspots.
+This project offers a comprehensive examination of the electric vehicle (EV) market. Using a dataset rich with information on both **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)**, this analysis provides a clear view of the market's dynamics.
 
-🏆 Top Players & Models: We identify the top 10 electric vehicle manufacturers and the most popular models, giving a clear picture of market dominance and consumer preferences.
+The goal is to transform raw data into actionable insights through a visually appealing and interactive Power BI dashboard.
 
-🔋 EV Type Breakdown: The analysis provides a clear breakdown of the total EV population into BEVs and PHEVs, illustrating the market share of each type.
+---
 
-🛣️ Electric Range: The average electric range of vehicles in the dataset is calculated, serving as a key metric for evaluating technological advancements and efficiency.
+## 🔍 Key Findings & Insights
 
-💰 Incentives Impact: The dashboard includes an analysis of vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, demonstrating the potential influence of government programs on adoption rates.
+* 📈 **Market Growth**: Highlights the remarkable growth of the EV market since 2010, showcasing the rapid increase in adoption.
+* 🗺️ **Geographical Distribution**: A map visualization reveals which states are leading in EV adoption, pinpointing regional hotspots.
+* 🏆 **Top Players & Models**: Identifies the top 10 EV manufacturers and most popular models, giving a clear picture of market dominance.
+* 🔋 **EV Type Breakdown**: Provides a breakdown of total EVs into BEVs and PHEVs, illustrating the market share of each type.
+* 🛣️ **Electric Range**: Calculates the average electric range of vehicles as a key metric for technological advancement.
+* 💰 **Incentives Impact**: Analyzes Clean Alternative Fuel Vehicle (CAFV) eligibility to show the influence of government programs.
 
-🛠️ Tools & Technologies
-Microsoft Excel 🖥️: Utilized for initial data cleaning, transformation, and preparation before loading into the visualization tool.
+---
 
-Power BI 📊: The primary tool for building the interactive dashboard and performing advanced data modeling and visualization.
+## 🛠️ Tools & Technologies
 
-📸 Dashboard Preview
-<img width="1119" height="631" alt="image" src="https://github.com/user-attachments/assets/3b6b079f-cf2c-42cd-8f8f-355bf15d044b" />
+* **Microsoft Excel 🖥️** – Used for data cleaning, transformation, and preparation.
+* **Power BI 📊** – Primary tool for building the interactive dashboard with advanced data modeling and visualization.
 
-This image gives you a glimpse of the final, interactive dashboard.
+---
 
-🚀 Getting Started
-To explore the full interactive dashboard, simply download the project file and open it with Power BI Desktop.
+## 📸 Dashboard Preview
 
-👤 Author
-vedantt-22
+![Dashboard Preview](https://github.com/user-attachments/assets/3b6b079f-cf2c-42cd-8f8f-355bf15d044b)
+
+This preview offers a glimpse of the **interactive Power BI dashboard**.
+
+---
+
+## 🚀 Getting Started
+
+1. Download the project files.
+2. Open them using **Power BI Desktop**.
+3. Explore the full dashboard to interact with visualizations and insights.
+
+---
+
+## 👤 Author
+
+**Vedant Karekar** ([@vedantt-22](https://github.com/vedantt-22))
+
+---
+
+✨ With this formatting, your README will look professional, visually clean, and GitHub-friendly.
+
+Do you also want me to add a **"Repository Structure"** section (like `data/`, `dashboard/`, `docs/`), in case you plan to organize your repo files?

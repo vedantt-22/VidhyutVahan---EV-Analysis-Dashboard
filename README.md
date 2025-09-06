@@ -47,7 +47,3 @@ This preview offers a glimpse of the **interactive Power BI dashboard**.
 **Vedant Karekar** ([@vedantt-22](https://github.com/vedantt-22))
 
 ---
-
-✨ With this formatting, your README will look professional, visually clean, and GitHub-friendly.
-
-Do you also want me to add a **"Repository Structure"** section (like `data/`, `dashboard/`, `docs/`), in case you plan to organize your repo files?
